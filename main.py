@@ -14,6 +14,7 @@ print(idade)
 print(altura)
 print(peso)
 
+
 print("O meu nome é", nome, ", tenho", idade, "anos e peso ", peso, "quilos.")
 
 print(type(nome))
